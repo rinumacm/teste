@@ -1,6 +1,5 @@
 <p align="center">  
- ![StudioAkiLogo](https://user-images.githubusercontent.com/128430557/229895874-156926c3-0a1c-4924-9385-6ef085332249.png)
-
+ <img src ="https://user-images.githubusercontent.com/128430557/229896057-2fa32106-6a15-487a-b658-2a542e3852cf.png"
 </p>
 
 ## Sobre
