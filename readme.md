@@ -1,6 +1,6 @@
 <p align="center">  
-  <img src="![StudioAkiLogo](https://user-images.githubusercontent.com/128430557/229895874-156926c3-0a1c-4924-9385-6ef085332249.png)
-">
+ ![StudioAkiLogo](https://user-images.githubusercontent.com/128430557/229895874-156926c3-0a1c-4924-9385-6ef085332249.png)
+
 </p>
 
 ## Sobre
