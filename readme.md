@@ -1,5 +1,5 @@
 <p align="center">  
- <img src ="https://user-images.githubusercontent.com/128430557/229896057-2fa32106-6a15-487a-b658-2a542e3852cf.png"
+ <img src ="C:\Users\rinum\OneDrive\Documentos\GitHub\teste\logo"
 </p>
 
 ## Sobre
